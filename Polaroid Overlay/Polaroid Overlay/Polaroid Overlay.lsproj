@@ -1,0 +1,873 @@
+{
+    "lens_id": "",
+    "document_id": "h8MJXOQ3Z6Wh3eDTi7bI",
+    "original_document_id": "h8MJXOQ3Z6Wh3eDTi7bI",
+    "version": "28",
+    "lastChanged": "1629137707630",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "1"
+                    ],
+                    [
+                        "Color Gradient"
+                    ],
+                    [
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Grain-1"
+                    ],
+                    [
+                        "Textures",
+                        "Screen Texture 4"
+                    ],
+                    [
+                        "Untitled-12 3"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "107bf9c96b1c41cd575ed910c3627f38",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Polaroid Frame",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Pair Idle Persons 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1629135887366864:147560"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1629135448197171:73670",
+                    "name": "Files\/File26.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1629135923119228:152926",
+                    "name": "Files\/File38",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1629135923178097:152980",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1629136325868904:209679",
+                    "name": "Files\/File44.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1629136392344048:219973",
+                    "name": "Files\/File48.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1629135047295460:2437",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629135402758844:54059",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629135540829219:94175",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1629135047222049:2231",
+                "4": "1629135047228916:2293",
+                "5": "1629135047295334:2436",
+                "6": "1629135129402957:15608",
+                "7": "1629135402758672:54058",
+                "8": "1629135540828993:94174",
+                "9": "1629135923061453:152856"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.jpg"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.jpg"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.jpg"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.jpg"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.lsmat"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.pvr"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.png"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.png"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.pvr"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.pvr"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.png"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.png"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.pvr"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Grain-1.jpg"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Color Gradient.lsmat"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Untitled-12 3.png"
+                    },
+                    {
+                        "k": "981",
+                        "v": "1.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "b4e77ed0f543b634725504f64acc398c"
+                    },
+                    {
+                        "k": "970",
+                        "v": "eaf157dee70ce57f9501609f872e93e4"
+                    },
+                    {
+                        "k": "971",
+                        "v": "96f34b5e58e18a83839db1eb82b4a8a8"
+                    },
+                    {
+                        "k": "972",
+                        "v": "248bc6eaae4e30136cd698ec5c8dbed9"
+                    },
+                    {
+                        "k": "973",
+                        "v": "a276acaed7d65e4c1b56181771677a77"
+                    },
+                    {
+                        "k": "974",
+                        "v": "77a4934af731dc4058df511649e3e8a6"
+                    },
+                    {
+                        "k": "975",
+                        "v": "9c12a0bece3f1319a74ef3cd6719c1a1"
+                    },
+                    {
+                        "k": "976",
+                        "v": "4d9477e3503dc734b24ef6e42f9d1c81"
+                    },
+                    {
+                        "k": "977",
+                        "v": "560b257d6aa88f88e23c30e996c47286"
+                    },
+                    {
+                        "k": "978",
+                        "v": "20d312a5a540186efd57e2b884db6aad"
+                    },
+                    {
+                        "k": "979",
+                        "v": "13e7e224812000045b8bdce72f5a5e81"
+                    },
+                    {
+                        "k": "980",
+                        "v": "aa73a15177a958924f39bca6922073cc"
+                    },
+                    {
+                        "k": "981",
+                        "v": "86eda0716628e259936e7d0d382bb1b7"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-16T14:09:45",
+                        "name": "Public",
+                        "hash": "707333010944cf85b2dd082dfcef2c95",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-16T14:09:45",
+                                "name": "Textures",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-16T13:32:09",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:40:02",
+                                "name": "Grain-1.jpg",
+                                "hash": "9c12a0bece3f1319a74ef3cd6719c1a1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-10T20:46:02",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-16T14:09:45",
+                                "name": "Color Gradient.lsmat",
+                                "hash": "469d85ec0c421dbc76f8d0afc6aa14d2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:04:53",
+                                "name": "1.png",
+                                "hash": "86eda0716628e259936e7d0d382bb1b7",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-16T13:52:02",
+                                "name": "Untitled-12 3.png",
+                                "hash": "aa73a15177a958924f39bca6922073cc",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-10T20:46:02",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "969",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Screen Texture 4",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "25",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1629135923178097:152980",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Grain-1",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629135448197171:73670",
+                        "fileId": "26",
+                        "originalId": "27",
+                        "publicId": "975",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/JPG GRAIN\/Grain-1.jpg",
+                        "additional": {
+                            "originHash": "9c12a0bece3f1319a74ef3cd6719c1a1"
+                        }
+                    },
+                    {
+                        "name": "Color Gradient",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629135923119228:152926",
+                        "fileId": "38",
+                        "originalId": "39",
+                        "publicId": "978",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Untitled-12 3",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629136325868904:209679",
+                        "fileId": "44",
+                        "originalId": "45",
+                        "publicId": "980",
+                        "source": "\/Users\/liamsawyer\/Desktop\/Untitled-12.png",
+                        "additional": {
+                            "originHash": "aa73a15177a958924f39bca6922073cc"
+                        }
+                    },
+                    {
+                        "name": "1",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629136392344048:219973",
+                        "fileId": "48",
+                        "originalId": "49",
+                        "publicId": "981",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/1.png",
+                        "additional": {
+                            "originHash": "86eda0716628e259936e7d0d382bb1b7"
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1629135923119228:152926",
+                        "path_list": [
+                            "Color Gradient"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1629135448197171:73670",
+                    "v": {
+                        "infos": {
+                            "originalSize": "316663",
+                            "compressedSize": "242136",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "10485760",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "28",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "efd4cb4688195d7d6bdf1184eaff1cb8",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "29"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629136325868904:209679",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1522226",
+                            "compressedSize": "552780",
+                            "originalRAM": "9000000",
+                            "compressedRAM": "1128000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "46",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "aa73a15177a958924f39bca6922073cc",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "47"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629136392344048:219973",
+                    "v": {
+                        "infos": {
+                            "originalSize": "696601",
+                            "compressedSize": "209615",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "50",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "6748a2ef02119cac32593e186cca50b5",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "51"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    }
+}

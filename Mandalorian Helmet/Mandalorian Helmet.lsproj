@@ -1,0 +1,1891 @@
+{
+    "lens_id": "",
+    "document_id": "M5-nVJweMecjGPSv_lZe",
+    "original_document_id": "Y5zzOQdo2N1gGJPqTTV7",
+    "version": "28",
+    "lastChanged": "1629155438785",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Meshes",
+                        "cap_occluder"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "mandalorian-helmet",
+                        "source",
+                        "mando_low",
+                        "Materials",
+                        "mandoM"
+                    ],
+                    [
+                        "mandalorian-helmet",
+                        "source",
+                        "mando_low",
+                        "Meshes",
+                        "helm_low"
+                    ],
+                    [
+                        "mandalorian-helmet",
+                        "source",
+                        "mando_low",
+                        "mando_low"
+                    ],
+                    [
+                        "mandalorian-helmet",
+                        "textures",
+                        "mando_low_mandoM_BaseColor"
+                    ],
+                    [
+                        "mandalorian-helmet",
+                        "textures",
+                        "mando_low_mandoM_Metallic"
+                    ],
+                    [
+                        "mandalorian-helmet",
+                        "textures",
+                        "mando_low_mandoM_Normal"
+                    ],
+                    [
+                        "mandalorian-helmet",
+                        "textures",
+                        "mando_low_mandoM_Roughness"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1495032264252211:307",
+                    "1519646016078432:20163",
+                    "1519649635294464:26959",
+                    "1519693795709998:5976"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "05a90c51f5292937b6c7536ddfae5425",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Mandalorian Helmet",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Two People Dancing 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1519692851290800:4860",
+                    "1519692992521333:5390",
+                    "1519693795714559:5979",
+                    "1520298381338376:134273",
+                    "1520299776349775:8096",
+                    "1520300279177762:15793",
+                    "1520300333847500:16557",
+                    "1520535762333927:360595",
+                    "1521490348734815:69066",
+                    "1521490711583957:78571",
+                    "1521490722242044:79737",
+                    "1521689253683100:3572",
+                    "1522777905809660:212075",
+                    "1522777910886665:213217"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "170",
+                    "uid": "1519754130605282:3205",
+                    "name": "\/Resources\/Resource170.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "272",
+                    "uid": "1588127504141623:277320",
+                    "name": "Files\/File49.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "273",
+                    "uid": "1588127504157371:277327",
+                    "name": "Files\/File51.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "274",
+                    "uid": "1623373225135569:6355465",
+                    "name": "Files\/File100",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "360",
+                    "uid": "1629154071779331:10234",
+                    "name": "Files\/File297.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "361",
+                    "uid": "1629154071840657:10245",
+                    "name": "Files\/File300.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "362",
+                    "uid": "1629154071895261:10260",
+                    "name": "Files\/File303.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "363",
+                    "uid": "1629154072007449:10279",
+                    "name": "Files\/File306.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "364",
+                    "uid": "1629154074730444:10630",
+                    "name": "Files\/File309.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "365",
+                    "uid": "1629154074745612:10644",
+                    "name": "Files\/File311",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "366",
+                    "uid": "1629154074904241:10736",
+                    "name": "mando_low",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1519689117514299:44802",
+                "1": "1519754130603380:3189",
+                "2": "1519754130603614:3193",
+                "3": "1519754130603671:3197",
+                "4": "1519754130603718:3201",
+                "5": "1519754130693860:3216",
+                "6": "1519754130703213:3218",
+                "7": "1519754130703225:3220",
+                "8": "1520546489934271:37113",
+                "9": "1521565863891751:9464",
+                "10": "1521565863891780:9467",
+                "11": "1521565863891837:9473",
+                "12": "1521689253683100:3572"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "10",
+                    "v": "Files\/File10.mesh"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.lsmat"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.lsmat"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.lsmat"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.lsmat"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.lsmat"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.lsmat"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.lsmat"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.lsmat"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.lsmat"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.lsmat"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.jpeg"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.jpeg"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.jpeg"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.jpeg"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.hdr"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.lsmat"
+                },
+                {
+                    "k": "297",
+                    "v": "Files\/File297.png"
+                },
+                {
+                    "k": "298",
+                    "v": "Files\/File298.png"
+                },
+                {
+                    "k": "299",
+                    "v": "Files\/File299.png"
+                },
+                {
+                    "k": "300",
+                    "v": "Files\/File300.png"
+                },
+                {
+                    "k": "301",
+                    "v": "Files\/File301.png"
+                },
+                {
+                    "k": "302",
+                    "v": "Files\/File302.png"
+                },
+                {
+                    "k": "303",
+                    "v": "Files\/File303.pvr"
+                },
+                {
+                    "k": "304",
+                    "v": "Files\/File304.png"
+                },
+                {
+                    "k": "305",
+                    "v": "Files\/File305.png"
+                },
+                {
+                    "k": "306",
+                    "v": "Files\/File306.pvr"
+                },
+                {
+                    "k": "307",
+                    "v": "Files\/File307.png"
+                },
+                {
+                    "k": "308",
+                    "v": "Files\/File308.png"
+                },
+                {
+                    "k": "309",
+                    "v": "Files\/File309.mesh"
+                },
+                {
+                    "k": "310",
+                    "v": "Files\/File310.mesh"
+                },
+                {
+                    "k": "311",
+                    "v": "Files\/File311"
+                },
+                {
+                    "k": "312",
+                    "v": "Files\/File312.lsmat"
+                },
+                {
+                    "k": "313",
+                    "v": "Files\/File313.oprfb"
+                },
+                {
+                    "k": "314",
+                    "v": "Files\/File314.fbx"
+                },
+                {
+                    "k": "315",
+                    "v": "Files\/File315.oprfb"
+                },
+                {
+                    "k": "316",
+                    "v": "Files\/File316.pvr"
+                },
+                {
+                    "k": "317",
+                    "v": "Files\/File317.pvr"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "4",
+                        "v": "Models"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Models\/Baseball Cap"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Models\/Baseball Cap\/Meshes"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Models\/Baseball Cap\/Meshes\/cap_occluder.mesh"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Models\/Baseball Cap\/Materials"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "632",
+                        "v": "Textures\/echopark.hdr"
+                    },
+                    {
+                        "k": "26614",
+                        "v": "Models\/Baseball Cap\/Materials\/Graph Occluder.lsmat"
+                    },
+                    {
+                        "k": "26670",
+                        "v": "mandalorian-helmet"
+                    },
+                    {
+                        "k": "26671",
+                        "v": "mandalorian-helmet\/textures"
+                    },
+                    {
+                        "k": "26672",
+                        "v": "mandalorian-helmet\/textures\/mando_low_mandoM_Roughness.png"
+                    },
+                    {
+                        "k": "26673",
+                        "v": "mandalorian-helmet\/textures\/mando_low_mandoM_Metallic.png"
+                    },
+                    {
+                        "k": "26674",
+                        "v": "mandalorian-helmet\/textures\/mando_low_mandoM_Normal.png"
+                    },
+                    {
+                        "k": "26675",
+                        "v": "mandalorian-helmet\/textures\/mando_low_mandoM_BaseColor.png"
+                    },
+                    {
+                        "k": "26676",
+                        "v": "mandalorian-helmet\/source"
+                    },
+                    {
+                        "k": "26677",
+                        "v": "mandalorian-helmet\/source\/mando_low.fbx"
+                    },
+                    {
+                        "k": "26678",
+                        "v": "..\/AdditionalFiles\/mandalorian-helmet\/source\/mando_low\/Materials"
+                    },
+                    {
+                        "k": "26679",
+                        "v": "..\/AdditionalFiles\/mandalorian-helmet\/source\/mando_low\/Materials\/mandoM.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "272888acc9d613deb42c84cda5b2cc92"
+                    },
+                    {
+                        "k": "3",
+                        "v": "2364044047d413b5f19865b2ca330499"
+                    },
+                    {
+                        "k": "7",
+                        "v": "ff4e13050372615296ee5c819c6e3662"
+                    },
+                    {
+                        "k": "8",
+                        "v": "67c12d4bbccc5d021d5c7fc0b1f8453e"
+                    },
+                    {
+                        "k": "9",
+                        "v": "bb470690012323518bbce559ea03d32f"
+                    },
+                    {
+                        "k": "10",
+                        "v": "4d196be6c739db5b4955f7d7bc598a42"
+                    },
+                    {
+                        "k": "12",
+                        "v": "7d06d049711b6deb4370483cec4511dd"
+                    },
+                    {
+                        "k": "13",
+                        "v": "53dca490e9b5d8a1677451b72a21a0df"
+                    },
+                    {
+                        "k": "14",
+                        "v": "deb5a8e364154e3595d0ff2ad24ccb7c"
+                    },
+                    {
+                        "k": "15",
+                        "v": "ea8acf843cd91d81e504bd5cbfd056c8"
+                    },
+                    {
+                        "k": "16",
+                        "v": "239d8e436cdb6aeb3631bf2b69b9cf2a"
+                    },
+                    {
+                        "k": "17",
+                        "v": "3a7e0a439b4ee2e34be7a6f9519b4ba8"
+                    },
+                    {
+                        "k": "18",
+                        "v": "eb18bec0b3b47e6104473f6704594640"
+                    },
+                    {
+                        "k": "20",
+                        "v": "f1c7b32138f5a9eb05e090b7b9573666"
+                    },
+                    {
+                        "k": "21",
+                        "v": "1d678d261943f664952cc9c7e3905973"
+                    },
+                    {
+                        "k": "22",
+                        "v": "35b2d210b2c8302eea2e3405a2f9c5aa"
+                    },
+                    {
+                        "k": "23",
+                        "v": "211bbb041469cebc491703296cf8aacd"
+                    },
+                    {
+                        "k": "24",
+                        "v": "1b106e138db791bf9bb685af2f672953"
+                    },
+                    {
+                        "k": "26",
+                        "v": "35f21cc0ab077f65aeb696153dbb2f51"
+                    },
+                    {
+                        "k": "27",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "28",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "30",
+                        "v": "ecde3d7f021b3f8e9ff5a06918d61df3"
+                    },
+                    {
+                        "k": "31",
+                        "v": "89c0d1376ce25ac3dbbab08ecc299896"
+                    },
+                    {
+                        "k": "32",
+                        "v": "6d33435472a81a5ccc76f07217701b5e"
+                    },
+                    {
+                        "k": "33",
+                        "v": "566ed18a171c63eed55671e37aba5a69"
+                    },
+                    {
+                        "k": "35",
+                        "v": "39330841f50f2e2a129148124e3db764"
+                    },
+                    {
+                        "k": "36",
+                        "v": "1f05c6fdd83dc7d0d33a113a17376c50"
+                    },
+                    {
+                        "k": "37",
+                        "v": "04182acc9b34c0968a6a85c0f3b843c0"
+                    },
+                    {
+                        "k": "38",
+                        "v": "6050bbc848a357d87c3b1c7405b6d17b"
+                    },
+                    {
+                        "k": "39",
+                        "v": "43b23e41e86a361a825692d02251ec3d"
+                    },
+                    {
+                        "k": "40",
+                        "v": "ac807a5bd61271db86558aac35b3d5ce"
+                    },
+                    {
+                        "k": "41",
+                        "v": "59f012093db73844f760f8159a1e216b"
+                    },
+                    {
+                        "k": "42",
+                        "v": "3d64feb8a5e290c7615b29a4683179ed"
+                    },
+                    {
+                        "k": "632",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "26614",
+                        "v": "9afcc00ab000bd281c0ac53ccf784206"
+                    },
+                    {
+                        "k": "26615",
+                        "v": "4e91640445fbf26a2389e828abeb93ad"
+                    },
+                    {
+                        "k": "26616",
+                        "v": "95591bea72d1790654ee1f2859e27573"
+                    },
+                    {
+                        "k": "26617",
+                        "v": "302403c63eedf8d435ff4fe3cbdd36bd"
+                    },
+                    {
+                        "k": "26619",
+                        "v": "f8a4c72da9eef9b9066ab2e58b303758"
+                    },
+                    {
+                        "k": "26620",
+                        "v": "57d90721595897ee8fd8b4bc4d577946"
+                    },
+                    {
+                        "k": "26622",
+                        "v": "ee22ffa5aec334ad11d3ebd0525b38b7"
+                    },
+                    {
+                        "k": "26623",
+                        "v": "51242c7d94189d06cde31fbb3b963ab6"
+                    },
+                    {
+                        "k": "26624",
+                        "v": "702f2addfa80b573bbe3bcbbd3d40c33"
+                    },
+                    {
+                        "k": "26625",
+                        "v": "307193c2920d3e4bc6c9d87b9dbe3663"
+                    },
+                    {
+                        "k": "26626",
+                        "v": "eba75a31215b33f4fe00f9e84d6f8d68"
+                    },
+                    {
+                        "k": "26627",
+                        "v": "6db076f94f4945f45095d10dba1ef056"
+                    },
+                    {
+                        "k": "26628",
+                        "v": "3f62c75c45118f232a92d42149712e17"
+                    },
+                    {
+                        "k": "26629",
+                        "v": "00b30521faf137c3e325130775d65c24"
+                    },
+                    {
+                        "k": "26630",
+                        "v": "afda73b882f3ccfc2348cfea5a59ecfc"
+                    },
+                    {
+                        "k": "26631",
+                        "v": "7298647d01397463f34150f4b09997bb"
+                    },
+                    {
+                        "k": "26632",
+                        "v": "aec790c933ac0c1ba1301afcd45c036a"
+                    },
+                    {
+                        "k": "26633",
+                        "v": "9ccc031e1769391e969bb6b404dd5374"
+                    },
+                    {
+                        "k": "26634",
+                        "v": "652f27bbb618bd85becd047d30eee222"
+                    },
+                    {
+                        "k": "26635",
+                        "v": "3b40a88e1712029de2868a2663c524fa"
+                    },
+                    {
+                        "k": "26636",
+                        "v": "8660f60cbe3bec778629d7bb9383ddbd"
+                    },
+                    {
+                        "k": "26638",
+                        "v": "90fb374a450745adbe6adbe63bc739dc"
+                    },
+                    {
+                        "k": "26639",
+                        "v": "3c702502a387078db3269f2aad486aed"
+                    },
+                    {
+                        "k": "26640",
+                        "v": "e096bef23dffa4117dd0f96150850362"
+                    },
+                    {
+                        "k": "26641",
+                        "v": "6df703f505466122ca62bfa11f10062a"
+                    },
+                    {
+                        "k": "26642",
+                        "v": "b66b7a752288e71486a64e65891d6da2"
+                    },
+                    {
+                        "k": "26643",
+                        "v": "fcea76e5bc9924aed659b69d1ef49f77"
+                    },
+                    {
+                        "k": "26644",
+                        "v": "3d8291dc0565137dfe690cc39950bdf0"
+                    },
+                    {
+                        "k": "26645",
+                        "v": "57d90721595897ee8fd8b4bc4d577946"
+                    },
+                    {
+                        "k": "26647",
+                        "v": "d8c24cff7c4f4082be77c51fd860d673"
+                    },
+                    {
+                        "k": "26648",
+                        "v": "ec7c651d15b44fad98ff06bae088ab21"
+                    },
+                    {
+                        "k": "26649",
+                        "v": "fb6a64f21799f22cabf6f651f1f7b308"
+                    },
+                    {
+                        "k": "26650",
+                        "v": "66f7128ddf8d35b7825cbb03344f8fbd"
+                    },
+                    {
+                        "k": "26651",
+                        "v": "0b69574cdd94a8fef0208db294cff0ef"
+                    },
+                    {
+                        "k": "26652",
+                        "v": "376c5257ac0bc6ea79fd95a63b768d91"
+                    },
+                    {
+                        "k": "26653",
+                        "v": "289751fb5e8ce7cd8ee58945651f21cb"
+                    },
+                    {
+                        "k": "26654",
+                        "v": "3b0bffa13d3ad2496fb58264bd824f20"
+                    },
+                    {
+                        "k": "26655",
+                        "v": "c9228da9aa351564ec7400d33e31ab16"
+                    },
+                    {
+                        "k": "26656",
+                        "v": "04d997c66b88ad5589b9e2ee2bbb3d50"
+                    },
+                    {
+                        "k": "26657",
+                        "v": "441da1bc696f7fc15d69b88af0e1a2fa"
+                    },
+                    {
+                        "k": "26658",
+                        "v": "d24501217fa8f33624d3af3a9a2ea617"
+                    },
+                    {
+                        "k": "26659",
+                        "v": "302403c63eedf8d435ff4fe3cbdd36bd"
+                    },
+                    {
+                        "k": "26661",
+                        "v": "88bbdaa6a1fa9584c9aa8056b86c0601"
+                    },
+                    {
+                        "k": "26662",
+                        "v": "302403c63eedf8d435ff4fe3cbdd36bd"
+                    },
+                    {
+                        "k": "26664",
+                        "v": "8f53b22d0f1eab8b70b69bce98e68cb1"
+                    },
+                    {
+                        "k": "26665",
+                        "v": "8660f60cbe3bec778629d7bb9383ddbd"
+                    },
+                    {
+                        "k": "26667",
+                        "v": "6190556fdeb9ffed1afe507cd1887e4c"
+                    },
+                    {
+                        "k": "26668",
+                        "v": "b2218c62a38fc781bc766d20a406ee5a"
+                    },
+                    {
+                        "k": "26669",
+                        "v": "3dc4c8451a36f257289b4ccfa9d54151"
+                    },
+                    {
+                        "k": "26672",
+                        "v": "0a6d059bd38c533bfbb499c676288496"
+                    },
+                    {
+                        "k": "26673",
+                        "v": "af8158d64eb293fa8273b96f14ff7575"
+                    },
+                    {
+                        "k": "26674",
+                        "v": "72d7c89f7d86305319816ff1d602a94a"
+                    },
+                    {
+                        "k": "26675",
+                        "v": "e3e2794bc59d38aedb0901b4976e666c"
+                    },
+                    {
+                        "k": "26677",
+                        "v": "37404c862395b210e163be11a89b60f9"
+                    },
+                    {
+                        "k": "26679",
+                        "v": "c46b6a4ce1965225ac56d21a86d2d045"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-16T19:00:17",
+                        "name": "Public",
+                        "hash": "5ee1fb329886b16df562031f51ce0a35",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-16T18:47:41",
+                                "name": "Textures",
+                                "hash": "7305afc99178fbb8f0912889f41c0cab",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-16T01:51:18",
+                                        "name": "echopark.hdr",
+                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-16T01:51:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-16T18:48:01",
+                                "name": "mandalorian-helmet",
+                                "hash": "01164ea4fd528247ffe65de01a78e026",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-16T18:48:01",
+                                        "name": "textures",
+                                        "hash": "c926a5cf54d4c4c293152ad6deecce79",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-09T20:01:30",
+                                                "name": "mando_low_mandoM_Roughness.png",
+                                                "hash": "0a6d059bd38c533bfbb499c676288496",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-09T20:01:30",
+                                                "name": "mando_low_mandoM_Metallic.png",
+                                                "hash": "af8158d64eb293fa8273b96f14ff7575",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-09T20:01:30",
+                                                "name": "mando_low_mandoM_Normal.png",
+                                                "hash": "72d7c89f7d86305319816ff1d602a94a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-09T20:01:30",
+                                                "name": "mando_low_mandoM_BaseColor.png",
+                                                "hash": "e3e2794bc59d38aedb0901b4976e666c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-16T18:47:51",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-16T18:48:01",
+                                        "name": "source",
+                                        "hash": "5995604e3bcad383874f023adc7b9709",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-07-09T20:01:30",
+                                                "name": "mando_low.fbx",
+                                                "hash": "37404c862395b210e163be11a89b60f9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-16T18:47:52",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-16T18:47:51",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-16T18:47:41",
+                                "name": "Models",
+                                "hash": "bc749488495dc1c256d34f3c2b559953",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-16T18:47:41",
+                                        "name": "Baseball Cap",
+                                        "hash": "c2e880368fca905bafbf5123338e511c",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-16T19:03:11",
+                                                "name": "Materials",
+                                                "hash": "cac4189857ca9df8338e6cb79e85a7a5",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-16T19:03:11",
+                                                        "name": "Graph Occluder.lsmat",
+                                                        "hash": "a9ee613154a5d5dcc9e8c4771b9aeac2",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-16T01:51:18",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-16T18:47:41",
+                                                "name": "Meshes",
+                                                "hash": "34dcb4aa511bb2e4d16da991789d8d42",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-16T01:51:18",
+                                                        "name": "cap_occluder.mesh",
+                                                        "hash": "ff4e13050372615296ee5c819c6e3662",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-16T01:51:18",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-16T01:51:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-16T01:51:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-16T01:51:18",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Models",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "4",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Baseball Cap",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "5",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "6",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "cap_occluder",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "170",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1519754130605282:3205",
+                                                "fileId": "10",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "7",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "19",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Graph Occluder",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "274",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1623373225135569:6355465",
+                                                "fileId": "100",
+                                                "originalId": "101",
+                                                "publicId": "26614",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "25",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "53",
+                                "originalId": "18446744073709551615",
+                                "publicId": "632",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "272",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588127504141623:277320",
+                                        "fileId": "49",
+                                        "originalId": "50",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "273",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588127504157371:277327",
+                                        "fileId": "51",
+                                        "originalId": "52",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "mandalorian-helmet",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26670",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26671",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "mando_low_mandoM_Roughness",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "360",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629154071779331:10234",
+                                        "fileId": "297",
+                                        "originalId": "298",
+                                        "publicId": "26672",
+                                        "source": "\/Users\/liamsawyer\/Downloads\/mandalorian-helmet\/textures\/mando_low_mandoM_Roughness.png",
+                                        "additional": {
+                                            "originHash": "0a6d059bd38c533bfbb499c676288496"
+                                        }
+                                    },
+                                    {
+                                        "name": "mando_low_mandoM_Metallic",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "361",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629154071840657:10245",
+                                        "fileId": "300",
+                                        "originalId": "301",
+                                        "publicId": "26673",
+                                        "source": "\/Users\/liamsawyer\/Downloads\/mandalorian-helmet\/textures\/mando_low_mandoM_Metallic.png",
+                                        "additional": {
+                                            "originHash": "af8158d64eb293fa8273b96f14ff7575"
+                                        }
+                                    },
+                                    {
+                                        "name": "mando_low_mandoM_Normal",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "362",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629154071895261:10260",
+                                        "fileId": "303",
+                                        "originalId": "304",
+                                        "publicId": "26674",
+                                        "source": "\/Users\/liamsawyer\/Downloads\/mandalorian-helmet\/textures\/mando_low_mandoM_Normal.png",
+                                        "additional": {
+                                            "originHash": "72d7c89f7d86305319816ff1d602a94a"
+                                        }
+                                    },
+                                    {
+                                        "name": "mando_low_mandoM_BaseColor",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "363",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629154072007449:10279",
+                                        "fileId": "306",
+                                        "originalId": "307",
+                                        "publicId": "26675",
+                                        "source": "\/Users\/liamsawyer\/Downloads\/mandalorian-helmet\/textures\/mando_low_mandoM_BaseColor.png",
+                                        "additional": {
+                                            "originHash": "e3e2794bc59d38aedb0901b4976e666c"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "source",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26676",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "mando_low",
+                                        "type": "18",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "314",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26677",
+                                        "source": "\/Users\/liamsawyer\/Downloads\/mandalorian-helmet\/source\/mando_low.fbx",
+                                        "additional": {
+                                            "materialMapping": [
+                                                {
+                                                    "k": "mandoM",
+                                                    "v": "1629154074745612:10644"
+                                                }
+                                            ]
+                                        },
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "helm_low",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "364",
+                                                        "dependency": "1",
+                                                        "hidden": "false",
+                                                        "uid": "1629154074730444:10630",
+                                                        "fileId": "309",
+                                                        "originalId": "310",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/3z\/n95r849d1q3_p8vkwlfj9cm80000gn\/T\/Lens Studio-bhfKrO\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26678",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "mandoM",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "365",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1629154074745612:10644",
+                                                        "fileId": "311",
+                                                        "originalId": "312",
+                                                        "publicId": "26679",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "mando_low",
+                                                "type": "12",
+                                                "subtype": "-1",
+                                                "resourceId": "366",
+                                                "dependency": "1",
+                                                "hidden": "false",
+                                                "uid": "1629154074904241:10736",
+                                                "fileId": "313",
+                                                "originalId": "315",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1629154074745612:10644",
+                        "path_list": [
+                            "mandalorian-helmet",
+                            "source",
+                            "mando_low",
+                            "Materials",
+                            "mandoM"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1629093203367098:280168",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629093203324116:280095"
+                        },
+                        {
+                            "k": [
+                                "casco"
+                            ],
+                            "v": "1629093203331337:280109"
+                        },
+                        {
+                            "k": [
+                                "casco",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629093203331635:280111"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629095068888189:433411",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629095068881387:433367"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV"
+                            ],
+                            "v": "1629095068882581:433369"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629095068882848:433371"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.001"
+                            ],
+                            "v": "1629095068883753:433383"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629095068884024:433385"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.002"
+                            ],
+                            "v": "1629095068884801:433397"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629095068885074:433399"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629096171060225:497910",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629096171048008:497894"
+                        },
+                        {
+                            "k": [
+                                "casco"
+                            ],
+                            "v": "1629096171052993:497896"
+                        },
+                        {
+                            "k": [
+                                "casco",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629096171053328:497898"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629096222509517:499719",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629096222497542:499703"
+                        },
+                        {
+                            "k": [
+                                "casco"
+                            ],
+                            "v": "1629096222502628:499705"
+                        },
+                        {
+                            "k": [
+                                "casco",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629096222502990:499707"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629097108286336:633386",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629097108278087:633342"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV"
+                            ],
+                            "v": "1629097108279644:633344"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629097108279973:633346"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.001"
+                            ],
+                            "v": "1629097108281035:633358"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629097108281343:633360"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.002"
+                            ],
+                            "v": "1629097108282304:633372"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629097108282634:633374"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629154074904241:10736",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629154074797068:10663"
+                        },
+                        {
+                            "k": [
+                                "helm_low"
+                            ],
+                            "v": "1629154074799133:10665"
+                        },
+                        {
+                            "k": [
+                                "helm_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629154074799384:10667"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1629154071779331:10234",
+                    "v": {
+                        "infos": {
+                            "originalSize": "289431",
+                            "compressedSize": "289431",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "299",
+                        "compressed_files": "",
+                        "desiredSettings": {
+                            "isCompressed": "true",
+                            "level": "2",
+                            "type": "1"
+                        }
+                    }
+                },
+                {
+                    "k": "1629154071840657:10245",
+                    "v": {
+                        "infos": {
+                            "originalSize": "240968",
+                            "compressedSize": "240968",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "302",
+                        "compressed_files": "",
+                        "desiredSettings": {
+                            "isCompressed": "true",
+                            "level": "2",
+                            "type": "1"
+                        }
+                    }
+                },
+                {
+                    "k": "1629154071895261:10260",
+                    "v": {
+                        "infos": {
+                            "originalSize": "749342",
+                            "compressedSize": "246830",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "305",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "72d7c89f7d86305319816ff1d602a94a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "317"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629154072007449:10279",
+                    "v": {
+                        "infos": {
+                            "originalSize": "614973",
+                            "compressedSize": "241819",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "308",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "e3e2794bc59d38aedb0901b4976e666c",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "316"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    }
+}

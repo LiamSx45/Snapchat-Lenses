@@ -1,0 +1,2287 @@
+{
+    "lens_id": "",
+    "document_id": "YPBsyjzHCoPtRfWQFyK_",
+    "original_document_id": "YPBsyjzHCoPtRfWQFyK_",
+    "version": "28",
+    "lastChanged": "1629158545677",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "1"
+                    ],
+                    [
+                        "10"
+                    ],
+                    [
+                        "11"
+                    ],
+                    [
+                        "12"
+                    ],
+                    [
+                        "13"
+                    ],
+                    [
+                        "14"
+                    ],
+                    [
+                        "15"
+                    ],
+                    [
+                        "2"
+                    ],
+                    [
+                        "3"
+                    ],
+                    [
+                        "4"
+                    ],
+                    [
+                        "5"
+                    ],
+                    [
+                        "6"
+                    ],
+                    [
+                        "7"
+                    ],
+                    [
+                        "8"
+                    ],
+                    [
+                        "9"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Script"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1629156238406091:5560",
+                    "1629156974447627:187542",
+                    "1629157010799972:195870",
+                    "1629157034384237:201693",
+                    "1629157034492141:202029",
+                    "1629157034582970:202361",
+                    "1629157156916568:221750",
+                    "1629157156959575:222074",
+                    "1629157156998494:222398",
+                    "1629157157036685:222722",
+                    "1629157157074724:223046",
+                    "1629157157110532:223370",
+                    "1629157202945987:231257",
+                    "1629157202985794:231585",
+                    "1629157203026229:231909"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "3c71a0732286696948abcb49cd6597df",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "Light Leaks",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Pair 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1629158079173907:408796",
+                    "1629158079181370:408929"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1629156569679257:125491",
+                    "name": "Files\/File53.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1629156853483823:169929",
+                    "name": "Files\/File64.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1629156959620167:183910",
+                    "name": "Files\/File65.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1629156960118729:183971",
+                    "name": "Files\/File68.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1629156960877126:184216",
+                    "name": "Files\/File71.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1629156961735578:184474",
+                    "name": "Files\/File74.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1629156962314733:184717",
+                    "name": "Files\/File77.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1629156963160637:184993",
+                    "name": "Files\/File80.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1629156964106252:185295",
+                    "name": "Files\/File83.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1629156964970570:185570",
+                    "name": "Files\/File87.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1629156965862776:185874",
+                    "name": "Files\/File90.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1629156967020765:186211",
+                    "name": "Files\/File93.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1629157086180848:210490",
+                    "name": "Files\/File105.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1629157090174313:211293",
+                    "name": "Files\/File108.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1629157106542217:213605",
+                    "name": "Files\/File111.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1629157109751936:214776",
+                    "name": "Files\/File114.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1629156238406573:5562",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629156238470701:5704",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629156974448605:187546",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629156974502169:187736",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157010800993:195874",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157010872058:196064",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157034385266:201697",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157034475902:201891",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157034493333:202033",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157034565831:202223",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157034584258:202365",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157034657150:202555",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157156917245:221754",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157156952477:221940",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157156960168:222078",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157156991311:222264",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157156998962:222402",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157157029706:222588",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157157037249:222726",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157157067889:222912",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157157075309:223050",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157157104384:223236",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157157111050:223374",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157157140472:223560",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157202946839:231261",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157202979583:231447",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157202986624:231589",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157203018725:231775",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157203026882:231913",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629157203058264:232099",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629158079164521:408662",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629158079173907:408796",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1629156238400649:5494",
+                "1": "1629156238406091:5560",
+                "2": "1629156238470561:5703",
+                "3": "1629156848562869:169322",
+                "4": "1629156974447627:187542",
+                "5": "1629156974448226:187544",
+                "6": "1629157010799972:195870",
+                "7": "1629157010800501:195872",
+                "8": "1629157034384237:201693",
+                "9": "1629157034384821:201695",
+                "10": "1629157034492141:202029",
+                "11": "1629157034492718:202031",
+                "12": "1629157034582970:202361",
+                "13": "1629157034583736:202363",
+                "14": "1629157156916568:221750",
+                "15": "1629157156916981:221752",
+                "16": "1629157156959575:222074",
+                "17": "1629157156959915:222076",
+                "18": "1629157156998494:222398",
+                "19": "1629157156998753:222400",
+                "20": "1629157157036685:222722",
+                "21": "1629157157036993:222724",
+                "22": "1629157157074724:223046",
+                "23": "1629157157075069:223048",
+                "24": "1629157157110532:223370",
+                "25": "1629157157110809:223372",
+                "26": "1629157202945987:231257",
+                "27": "1629157202946470:231259",
+                "28": "1629157202985794:231585",
+                "29": "1629157202986254:231587",
+                "30": "1629157203026229:231909",
+                "31": "1629157203026579:231911",
+                "32": "1629158079163512:408660",
+                "33": "1629158079173719:408795"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.pvr"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.png"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.pvr"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.js"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.pvr"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.pvr"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.png"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.pvr"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.png"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.pvr"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.png"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.png"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.pvr"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.png"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.png"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.pvr"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.png"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.png"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.pvr"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.png"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.png"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.pvr"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.pvr"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.png"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.png"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.pvr"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.png"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.png"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.pvr"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.png"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.png"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.pvr"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.pvr"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.pvr"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.pvr"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.pvr"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.pvr"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.pvr"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.pvr"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.pvr"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.pvr"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.png"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107.png"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.pvr"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.png"
+                },
+                {
+                    "k": "110",
+                    "v": "Files\/File110.png"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111.pvr"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.png"
+                },
+                {
+                    "k": "113",
+                    "v": "Files\/File113.png"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114.pvr"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.png"
+                },
+                {
+                    "k": "116",
+                    "v": "Files\/File116.png"
+                },
+                {
+                    "k": "117",
+                    "v": "Files\/File117.pvr"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.pvr"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119.pvr"
+                },
+                {
+                    "k": "120",
+                    "v": "Files\/File120.pvr"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "981",
+                        "v": "10.png"
+                    },
+                    {
+                        "k": "982",
+                        "v": "Script.js"
+                    },
+                    {
+                        "k": "983",
+                        "v": "3.png"
+                    },
+                    {
+                        "k": "984",
+                        "v": "4.png"
+                    },
+                    {
+                        "k": "985",
+                        "v": "5.png"
+                    },
+                    {
+                        "k": "986",
+                        "v": "6.png"
+                    },
+                    {
+                        "k": "987",
+                        "v": "7.png"
+                    },
+                    {
+                        "k": "988",
+                        "v": "8.png"
+                    },
+                    {
+                        "k": "989",
+                        "v": "9.png"
+                    },
+                    {
+                        "k": "990",
+                        "v": "14.png"
+                    },
+                    {
+                        "k": "991",
+                        "v": "15.png"
+                    },
+                    {
+                        "k": "992",
+                        "v": "11.png"
+                    },
+                    {
+                        "k": "993",
+                        "v": "1.png"
+                    },
+                    {
+                        "k": "994",
+                        "v": "2.png"
+                    },
+                    {
+                        "k": "995",
+                        "v": "12.png"
+                    },
+                    {
+                        "k": "996",
+                        "v": "13.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "65a7b4d3a69979f7dc18bcf8c27717af"
+                    },
+                    {
+                        "k": "969",
+                        "v": "648b254d19f8d43943b1ed466bf26a9b"
+                    },
+                    {
+                        "k": "970",
+                        "v": "c4ed41518f5b1322367208f90f702787"
+                    },
+                    {
+                        "k": "971",
+                        "v": "ba5732fd2ae42e28e873efdf3ab8bee8"
+                    },
+                    {
+                        "k": "972",
+                        "v": "e29375618c80c7f52e2ba53676f9fc90"
+                    },
+                    {
+                        "k": "973",
+                        "v": "7eee285c022bd0dd6d55a9313bcc1a64"
+                    },
+                    {
+                        "k": "974",
+                        "v": "b189c29b9e625f46a9220b3bde05a76f"
+                    },
+                    {
+                        "k": "975",
+                        "v": "4f3a4280f70e2da7214e9ab84cd078b7"
+                    },
+                    {
+                        "k": "976",
+                        "v": "161b886f37a8d0ee639c1392cb7c2e7f"
+                    },
+                    {
+                        "k": "977",
+                        "v": "0740dcce1cbc49f10eceb82327687ec5"
+                    },
+                    {
+                        "k": "978",
+                        "v": "6fe532695162d2599844ba7e3bf5d845"
+                    },
+                    {
+                        "k": "979",
+                        "v": "c54dc0909af48ba8920868afd34f3ceb"
+                    },
+                    {
+                        "k": "980",
+                        "v": "ce02476c26ba46639aafc30f96cc6439"
+                    },
+                    {
+                        "k": "981",
+                        "v": "ca3a5391d0a82789c1fbc68ceef327d5"
+                    },
+                    {
+                        "k": "982",
+                        "v": "e2873b8ea299453c89b2a7667d979faf"
+                    },
+                    {
+                        "k": "983",
+                        "v": "71e36529609dd18607b7e5aaff9f99ea"
+                    },
+                    {
+                        "k": "984",
+                        "v": "bf2adc17de9fcfcb506ad31a0bd0410c"
+                    },
+                    {
+                        "k": "985",
+                        "v": "57da261ee031cb02c16d60dee0c48bb4"
+                    },
+                    {
+                        "k": "986",
+                        "v": "1e28d686d4d8ebd9aca1e933d74db570"
+                    },
+                    {
+                        "k": "987",
+                        "v": "5beecbdec398e1f204c8154dfa9dbcf2"
+                    },
+                    {
+                        "k": "988",
+                        "v": "1468fe738554777ab5ac5c7b6f3e855c"
+                    },
+                    {
+                        "k": "989",
+                        "v": "0574e9da796089e388ee7cebc8576f4c"
+                    },
+                    {
+                        "k": "990",
+                        "v": "a51f56751b141bc0b96b35f04f78e433"
+                    },
+                    {
+                        "k": "991",
+                        "v": "2d4ffa9825020be9486c2cad5490d465"
+                    },
+                    {
+                        "k": "992",
+                        "v": "d8beb8262043ab44d3fd82fd246c5265"
+                    },
+                    {
+                        "k": "993",
+                        "v": "86eda0716628e259936e7d0d382bb1b7"
+                    },
+                    {
+                        "k": "994",
+                        "v": "41b09404f6cece4dda838f5a257cea16"
+                    },
+                    {
+                        "k": "995",
+                        "v": "bf1b5bab8cbcfa7dea547237d0f62b7f"
+                    },
+                    {
+                        "k": "996",
+                        "v": "50bacc83f6b15c00deb8b4d2a6773c91"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-16T19:38:29",
+                        "name": "Public",
+                        "hash": "5f2475aeae95a23b0f1b06079d7ffecf",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:27:59",
+                                "name": "8.png",
+                                "hash": "1468fe738554777ab5ac5c7b6f3e855c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:29:42",
+                                "name": "9.png",
+                                "hash": "0574e9da796089e388ee7cebc8576f4c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:37:32",
+                                "name": "14.png",
+                                "hash": "a51f56751b141bc0b96b35f04f78e433",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:39:25",
+                                "name": "15.png",
+                                "hash": "2d4ffa9825020be9486c2cad5490d465",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:35:34",
+                                "name": "12.png",
+                                "hash": "bf1b5bab8cbcfa7dea547237d0f62b7f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:36:18",
+                                "name": "13.png",
+                                "hash": "50bacc83f6b15c00deb8b4d2a6773c91",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:34:12",
+                                "name": "11.png",
+                                "hash": "d8beb8262043ab44d3fd82fd246c5265",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:30:51",
+                                "name": "10.png",
+                                "hash": "ca3a5391d0a82789c1fbc68ceef327d5",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-16T19:34:24",
+                                "name": "Script.js",
+                                "hash": "e2873b8ea299453c89b2a7667d979faf",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:25:35",
+                                "name": "4.png",
+                                "hash": "bf2adc17de9fcfcb506ad31a0bd0410c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:20:13",
+                                "name": "5.png",
+                                "hash": "57da261ee031cb02c16d60dee0c48bb4",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-10T20:46:02",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:26:47",
+                                "name": "7.png",
+                                "hash": "5beecbdec398e1f204c8154dfa9dbcf2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:24:30",
+                                "name": "6.png",
+                                "hash": "1e28d686d4d8ebd9aca1e933d74db570",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:05:53",
+                                "name": "2.png",
+                                "hash": "41b09404f6cece4dda838f5a257cea16",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:17:25",
+                                "name": "3.png",
+                                "hash": "71e36529609dd18607b7e5aaff9f99ea",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-28T08:04:53",
+                                "name": "1.png",
+                                "hash": "86eda0716628e259936e7d0d382bb1b7",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-10T20:46:02",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": {
+                            "resourceInfoExportKey": {
+                                "RenderTargetRole": "1"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "10",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "25",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156569679257:125491",
+                        "fileId": "53",
+                        "originalId": "54",
+                        "publicId": "981",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/10.png",
+                        "additional": {
+                            "originHash": "ca3a5391d0a82789c1fbc68ceef327d5"
+                        }
+                    },
+                    {
+                        "name": "Script",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156853483823:169929",
+                        "fileId": "64",
+                        "originalId": "18446744073709551615",
+                        "publicId": "982",
+                        "source": "\/private\/var\/folders\/3z\/n95r849d1q3_p8vkwlfj9cm80000gn\/T\/Lens Studio-nkLsYg\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "3",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156959620167:183910",
+                        "fileId": "65",
+                        "originalId": "66",
+                        "publicId": "983",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/3.png",
+                        "additional": {
+                            "originHash": "71e36529609dd18607b7e5aaff9f99ea"
+                        }
+                    },
+                    {
+                        "name": "4",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156960118729:183971",
+                        "fileId": "68",
+                        "originalId": "69",
+                        "publicId": "984",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/4.png",
+                        "additional": {
+                            "originHash": "bf2adc17de9fcfcb506ad31a0bd0410c"
+                        }
+                    },
+                    {
+                        "name": "5",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "29",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156960877126:184216",
+                        "fileId": "71",
+                        "originalId": "72",
+                        "publicId": "985",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/5.png",
+                        "additional": {
+                            "originHash": "57da261ee031cb02c16d60dee0c48bb4"
+                        }
+                    },
+                    {
+                        "name": "6",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "30",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156961735578:184474",
+                        "fileId": "74",
+                        "originalId": "75",
+                        "publicId": "986",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/6.png",
+                        "additional": {
+                            "originHash": "1e28d686d4d8ebd9aca1e933d74db570"
+                        }
+                    },
+                    {
+                        "name": "7",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "31",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156962314733:184717",
+                        "fileId": "77",
+                        "originalId": "78",
+                        "publicId": "987",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/7.png",
+                        "additional": {
+                            "originHash": "5beecbdec398e1f204c8154dfa9dbcf2"
+                        }
+                    },
+                    {
+                        "name": "8",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "32",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156963160637:184993",
+                        "fileId": "80",
+                        "originalId": "81",
+                        "publicId": "988",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/8.png",
+                        "additional": {
+                            "originHash": "1468fe738554777ab5ac5c7b6f3e855c"
+                        }
+                    },
+                    {
+                        "name": "9",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "33",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156964106252:185295",
+                        "fileId": "83",
+                        "originalId": "84",
+                        "publicId": "989",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/9.png",
+                        "additional": {
+                            "originHash": "0574e9da796089e388ee7cebc8576f4c"
+                        }
+                    },
+                    {
+                        "name": "14",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "34",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156964970570:185570",
+                        "fileId": "87",
+                        "originalId": "88",
+                        "publicId": "990",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/14.png",
+                        "additional": {
+                            "originHash": "a51f56751b141bc0b96b35f04f78e433"
+                        }
+                    },
+                    {
+                        "name": "15",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "35",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156965862776:185874",
+                        "fileId": "90",
+                        "originalId": "91",
+                        "publicId": "991",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/15.png",
+                        "additional": {
+                            "originHash": "2d4ffa9825020be9486c2cad5490d465"
+                        }
+                    },
+                    {
+                        "name": "11",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "36",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629156967020765:186211",
+                        "fileId": "93",
+                        "originalId": "94",
+                        "publicId": "992",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/11.png",
+                        "additional": {
+                            "originHash": "d8beb8262043ab44d3fd82fd246c5265"
+                        }
+                    },
+                    {
+                        "name": "1",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "37",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629157086180848:210490",
+                        "fileId": "105",
+                        "originalId": "106",
+                        "publicId": "993",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/1.png",
+                        "additional": {
+                            "originHash": "86eda0716628e259936e7d0d382bb1b7"
+                        }
+                    },
+                    {
+                        "name": "2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "38",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629157090174313:211293",
+                        "fileId": "108",
+                        "originalId": "109",
+                        "publicId": "994",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/2.png",
+                        "additional": {
+                            "originHash": "41b09404f6cece4dda838f5a257cea16"
+                        }
+                    },
+                    {
+                        "name": "12",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "39",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629157106542217:213605",
+                        "fileId": "111",
+                        "originalId": "112",
+                        "publicId": "995",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/12.png",
+                        "additional": {
+                            "originHash": "bf1b5bab8cbcfa7dea547237d0f62b7f"
+                        }
+                    },
+                    {
+                        "name": "13",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "40",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629157109751936:214776",
+                        "fileId": "114",
+                        "originalId": "115",
+                        "publicId": "996",
+                        "source": "\/Users\/liamsawyer\/Downloads\/elements-light-leaks-film-overlays-grain-RRND8CK-2020-10-28\/PNG LIGHT LEAKS\/13.png",
+                        "additional": {
+                            "originHash": "50bacc83f6b15c00deb8b4d2a6773c91"
+                        }
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1629158079173719:408795"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1629156569679257:125491",
+                    "v": {
+                        "infos": {
+                            "originalSize": "530847",
+                            "compressedSize": "205335",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "55",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "95e5451c69217ddd1ec0c86915aeb96c",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "62"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629156959620167:183910",
+                    "v": {
+                        "infos": {
+                            "originalSize": "262193",
+                            "compressedSize": "90358",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "67",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "b78625f4956fcf7f706ca5f4fb3bf0bf",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "86"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629156960118729:183971",
+                    "v": {
+                        "infos": {
+                            "originalSize": "296021",
+                            "compressedSize": "107486",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "70",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "ae4079b63c285cd99db82d6af3567984",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "99"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629156960877126:184216",
+                    "v": {
+                        "infos": {
+                            "originalSize": "409590",
+                            "compressedSize": "93497",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "73",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "10befb5840681e3180eaae17aaece0d6",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "96"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629156961735578:184474",
+                    "v": {
+                        "infos": {
+                            "originalSize": "280950",
+                            "compressedSize": "92687",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "76",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "625db34745d5749f7d50488ca24cdd7a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "97"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629156962314733:184717",
+                    "v": {
+                        "infos": {
+                            "originalSize": "14690",
+                            "compressedSize": "8457",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "79",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "9b57e51c3b3b3654276d04909c5030e4",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "98"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629156963160637:184993",
+                    "v": {
+                        "infos": {
+                            "originalSize": "422058",
+                            "compressedSize": "82527",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "82",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5ef36ae1f31fcca5413a89f0935b7426",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "100"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629156964106252:185295",
+                    "v": {
+                        "infos": {
+                            "originalSize": "759211",
+                            "compressedSize": "221851",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "85",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a7a360e5c761a107eb21eadf119f9278",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "102"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629156964970570:185570",
+                    "v": {
+                        "infos": {
+                            "originalSize": "185700",
+                            "compressedSize": "26114",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "89",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "22c70998f37d12929134f0d71b6faf7d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "103"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629156965862776:185874",
+                    "v": {
+                        "infos": {
+                            "originalSize": "319740",
+                            "compressedSize": "98758",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "92",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "7be1e1f3626422b7b720ac0c4d213c97",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "101"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629156967020765:186211",
+                    "v": {
+                        "infos": {
+                            "originalSize": "542788",
+                            "compressedSize": "210064",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "95",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "024ca3bf35f6e84c4c68bfdd4ece8f8d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "104"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629157086180848:210490",
+                    "v": {
+                        "infos": {
+                            "originalSize": "696601",
+                            "compressedSize": "209615",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "107",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "6748a2ef02119cac32593e186cca50b5",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "117"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629157090174313:211293",
+                    "v": {
+                        "infos": {
+                            "originalSize": "333600",
+                            "compressedSize": "84228",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "110",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "6de5435798961ffa817e94b965d2fd35",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "119"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629157106542217:213605",
+                    "v": {
+                        "infos": {
+                            "originalSize": "319208",
+                            "compressedSize": "145306",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "113",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5f514e8ef3e52698b5657335454dbbe2",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "120"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629157109751936:214776",
+                    "v": {
+                        "infos": {
+                            "originalSize": "95707",
+                            "compressedSize": "51971",
+                            "originalRAM": "10485760",
+                            "compressedRAM": "1310720",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "116",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "373ef28a4163ad29a063806500141cfa",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "118"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    }
+}

@@ -1,0 +1,2800 @@
+{
+    "lens_id": "",
+    "document_id": "Y5zzOQdo2N1gGJPqTTV7",
+    "original_document_id": "Y5zzOQdo2N1gGJPqTTV7",
+    "version": "28",
+    "lastChanged": "1629097196023",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Loki Helmet",
+                        "Loki Helmet"
+                    ],
+                    [
+                        "Loki Helmet",
+                        "Materials",
+                        "Material #41"
+                    ],
+                    [
+                        "Loki Helmet",
+                        "Meshes",
+                        "casco"
+                    ],
+                    [
+                        "Loki Helmet 2"
+                    ],
+                    [
+                        "Loki Helmet 2",
+                        "Loki Helmet"
+                    ],
+                    [
+                        "Loki Helmet 2",
+                        "Materials"
+                    ],
+                    [
+                        "Loki Helmet 2",
+                        "Materials",
+                        "Material #41"
+                    ],
+                    [
+                        "Loki Helmet 2",
+                        "Meshes",
+                        "casco"
+                    ],
+                    [
+                        "Loki Helmet 3"
+                    ],
+                    [
+                        "Loki Helmet 3",
+                        "Loki Helmet"
+                    ],
+                    [
+                        "Loki Helmet 3",
+                        "Materials"
+                    ],
+                    [
+                        "Loki Helmet 3",
+                        "Materials",
+                        "Material #41"
+                    ],
+                    [
+                        "Loki Helmet 3",
+                        "Meshes"
+                    ],
+                    [
+                        "Loki Helmet 3",
+                        "Meshes",
+                        "casco"
+                    ],
+                    [
+                        "Material Bolls",
+                        "Material Bolls"
+                    ],
+                    [
+                        "Material Bolls",
+                        "Materials",
+                        "Materiais"
+                    ],
+                    [
+                        "Material Bolls",
+                        "Materials",
+                        "Materiais 2"
+                    ],
+                    [
+                        "Material Bolls",
+                        "Materials",
+                        "Materiais 3"
+                    ],
+                    [
+                        "Material Bolls",
+                        "Meshes",
+                        "Esfera_UV"
+                    ],
+                    [
+                        "Material Bolls",
+                        "Meshes",
+                        "Esfera_UV 2"
+                    ],
+                    [
+                        "Material Bolls",
+                        "Meshes",
+                        "Esfera_UV 3"
+                    ],
+                    [
+                        "Material Bolls 2",
+                        "Material Bolls"
+                    ],
+                    [
+                        "Material Bolls 2",
+                        "Materials",
+                        "Materiais"
+                    ],
+                    [
+                        "Material Bolls 2",
+                        "Materials",
+                        "Materiais 2"
+                    ],
+                    [
+                        "Material Bolls 2",
+                        "Materials",
+                        "Materiais 3"
+                    ],
+                    [
+                        "Material Bolls 2",
+                        "Meshes"
+                    ],
+                    [
+                        "Material Bolls 2",
+                        "Meshes",
+                        "Esfera_UV"
+                    ],
+                    [
+                        "Material Bolls 2",
+                        "Meshes",
+                        "Esfera_UV 2"
+                    ],
+                    [
+                        "Material Bolls 2",
+                        "Meshes",
+                        "Esfera_UV 3"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Meshes",
+                        "cap_occluder"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "TexturesCom_Metal_FineGold_1K_albedo"
+                    ],
+                    [
+                        "TexturesCom_Metal_FineGold_1K_metallic"
+                    ],
+                    [
+                        "TexturesCom_Metal_FineGold_1K_normal"
+                    ],
+                    [
+                        "TexturesCom_Metal_FineGold_1K_roughness"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1495032264252211:307",
+                    "1519646016078432:20163",
+                    "1519649635294464:26959",
+                    "1519693795709998:5976"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "14067e49112c326d61cd492b9bfa64e2",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Loki Helmet",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Two People Dancing 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1519692851290800:4860",
+                    "1519692992521333:5390",
+                    "1519693795714559:5979",
+                    "1520298381338376:134273",
+                    "1520299776349775:8096",
+                    "1520300279177762:15793",
+                    "1520300333847500:16557",
+                    "1520535762333927:360595",
+                    "1521490348734815:69066",
+                    "1521490711583957:78571",
+                    "1521490722242044:79737",
+                    "1521689253683100:3572",
+                    "1522777905809660:212075",
+                    "1522777910886665:213217"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "170",
+                    "uid": "1519754130605282:3205",
+                    "name": "\/Resources\/Resource170.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5"
+                },
+                {
+                    "resId": "272",
+                    "uid": "1588127504141623:277320",
+                    "name": "Files\/File49.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "273",
+                    "uid": "1588127504157371:277327",
+                    "name": "Files\/File51.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "274",
+                    "uid": "1623373225135569:6355465",
+                    "name": "Files\/File100",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "277",
+                    "uid": "1629093203286885:280066",
+                    "name": "Files\/File120.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "278",
+                    "uid": "1629093203294786:280076",
+                    "name": "Files\/File122",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "279",
+                    "uid": "1629093203367098:280168",
+                    "name": "Loki Helmet",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "308",
+                    "uid": "1629095068733112:433284",
+                    "name": "Files\/File184.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "309",
+                    "uid": "1629095068752645:433298",
+                    "name": "Files\/File186.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "310",
+                    "uid": "1629095068772105:433312",
+                    "name": "Files\/File188.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "311",
+                    "uid": "1629095068780921:433322",
+                    "name": "Files\/File190",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "312",
+                    "uid": "1629095068816670:433337",
+                    "name": "Files\/File192",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "313",
+                    "uid": "1629095068851175:433352",
+                    "name": "Files\/File194",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "314",
+                    "uid": "1629095068888189:433411",
+                    "name": "Material Bolls",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "315",
+                    "uid": "1629095114741681:434022",
+                    "name": "Files\/File199.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "316",
+                    "uid": "1629095131752526:434461",
+                    "name": "Files\/File203.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "317",
+                    "uid": "1629095152204929:434950",
+                    "name": "Files\/File207.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "318",
+                    "uid": "1629095766748957:465815",
+                    "name": "Files\/File211.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "347",
+                    "uid": "1629096171002806:497869",
+                    "name": "Files\/File268.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "348",
+                    "uid": "1629096171011014:497879",
+                    "name": "Files\/File270",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "349",
+                    "uid": "1629096171060225:497910",
+                    "name": "Loki Helmet",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "350",
+                    "uid": "1629096222455612:499678",
+                    "name": "Files\/File275.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "351",
+                    "uid": "1629096222464163:499688",
+                    "name": "Files\/File277",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "352",
+                    "uid": "1629096222509517:499719",
+                    "name": "Loki Helmet",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "353",
+                    "uid": "1629097108110622:633239",
+                    "name": "Files\/File282.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "354",
+                    "uid": "1629097108132348:633257",
+                    "name": "Files\/File284.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "355",
+                    "uid": "1629097108153730:633271",
+                    "name": "Files\/File286.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "356",
+                    "uid": "1629097108167267:633285",
+                    "name": "Files\/File288",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "357",
+                    "uid": "1629097108203841:633304",
+                    "name": "Files\/File290",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "358",
+                    "uid": "1629097108241969:633323",
+                    "name": "Files\/File292",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "359",
+                    "uid": "1629097108286336:633386",
+                    "name": "Material Bolls",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1519689117514299:44802",
+                "1": "1519754130603380:3189",
+                "2": "1519754130603614:3193",
+                "3": "1519754130603671:3197",
+                "4": "1519754130603718:3201",
+                "5": "1519754130693860:3216",
+                "6": "1519754130703213:3218",
+                "7": "1519754130703225:3220",
+                "8": "1520546489934271:37113",
+                "9": "1521565863891751:9464",
+                "10": "1521565863891780:9467",
+                "11": "1521565863891837:9473",
+                "12": "1521689253683100:3572"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "10",
+                    "v": "Files\/File10.mesh"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.lsmat"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.lsmat"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.lsmat"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.lsmat"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.lsmat"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.lsmat"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.lsmat"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.lsmat"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.lsmat"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.lsmat"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.jpeg"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.jpeg"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.jpeg"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.jpeg"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.hdr"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.lsmat"
+                },
+                {
+                    "k": "120",
+                    "v": "Files\/File120.mesh"
+                },
+                {
+                    "k": "121",
+                    "v": "Files\/File121.mesh"
+                },
+                {
+                    "k": "122",
+                    "v": "Files\/File122"
+                },
+                {
+                    "k": "123",
+                    "v": "Files\/File123.lsmat"
+                },
+                {
+                    "k": "124",
+                    "v": "Files\/File124.oprfb"
+                },
+                {
+                    "k": "125",
+                    "v": "Files\/File125.fbx"
+                },
+                {
+                    "k": "126",
+                    "v": "Files\/File126.oprfb"
+                },
+                {
+                    "k": "184",
+                    "v": "Files\/File184.mesh"
+                },
+                {
+                    "k": "185",
+                    "v": "Files\/File185.mesh"
+                },
+                {
+                    "k": "186",
+                    "v": "Files\/File186.mesh"
+                },
+                {
+                    "k": "187",
+                    "v": "Files\/File187.mesh"
+                },
+                {
+                    "k": "188",
+                    "v": "Files\/File188.mesh"
+                },
+                {
+                    "k": "189",
+                    "v": "Files\/File189.mesh"
+                },
+                {
+                    "k": "190",
+                    "v": "Files\/File190"
+                },
+                {
+                    "k": "191",
+                    "v": "Files\/File191.lsmat"
+                },
+                {
+                    "k": "192",
+                    "v": "Files\/File192"
+                },
+                {
+                    "k": "193",
+                    "v": "Files\/File193.lsmat"
+                },
+                {
+                    "k": "194",
+                    "v": "Files\/File194"
+                },
+                {
+                    "k": "195",
+                    "v": "Files\/File195.lsmat"
+                },
+                {
+                    "k": "196",
+                    "v": "Files\/File196.oprfb"
+                },
+                {
+                    "k": "197",
+                    "v": "Files\/File197.obj"
+                },
+                {
+                    "k": "198",
+                    "v": "Files\/File198.oprfb"
+                },
+                {
+                    "k": "199",
+                    "v": "Files\/File199.pvr"
+                },
+                {
+                    "k": "200",
+                    "v": "Files\/File200.tif"
+                },
+                {
+                    "k": "201",
+                    "v": "Files\/File201.png"
+                },
+                {
+                    "k": "202",
+                    "v": "Files\/File202.pvr"
+                },
+                {
+                    "k": "203",
+                    "v": "Files\/File203.pvr"
+                },
+                {
+                    "k": "204",
+                    "v": "Files\/File204.tif"
+                },
+                {
+                    "k": "205",
+                    "v": "Files\/File205.png"
+                },
+                {
+                    "k": "206",
+                    "v": "Files\/File206.pvr"
+                },
+                {
+                    "k": "207",
+                    "v": "Files\/File207.pvr"
+                },
+                {
+                    "k": "208",
+                    "v": "Files\/File208.tif"
+                },
+                {
+                    "k": "209",
+                    "v": "Files\/File209.png"
+                },
+                {
+                    "k": "210",
+                    "v": "Files\/File210.pvr"
+                },
+                {
+                    "k": "211",
+                    "v": "Files\/File211.pvr"
+                },
+                {
+                    "k": "212",
+                    "v": "Files\/File212.tif"
+                },
+                {
+                    "k": "213",
+                    "v": "Files\/File213.png"
+                },
+                {
+                    "k": "214",
+                    "v": "Files\/File214.pvr"
+                },
+                {
+                    "k": "268",
+                    "v": "Files\/File268.mesh"
+                },
+                {
+                    "k": "269",
+                    "v": "Files\/File269.mesh"
+                },
+                {
+                    "k": "270",
+                    "v": "Files\/File270"
+                },
+                {
+                    "k": "271",
+                    "v": "Files\/File271.lsmat"
+                },
+                {
+                    "k": "272",
+                    "v": "Files\/File272.oprfb"
+                },
+                {
+                    "k": "273",
+                    "v": "Files\/File273.fbx"
+                },
+                {
+                    "k": "274",
+                    "v": "Files\/File274.oprfb"
+                },
+                {
+                    "k": "275",
+                    "v": "Files\/File275.mesh"
+                },
+                {
+                    "k": "276",
+                    "v": "Files\/File276.mesh"
+                },
+                {
+                    "k": "277",
+                    "v": "Files\/File277"
+                },
+                {
+                    "k": "278",
+                    "v": "Files\/File278.lsmat"
+                },
+                {
+                    "k": "279",
+                    "v": "Files\/File279.oprfb"
+                },
+                {
+                    "k": "280",
+                    "v": "Files\/File280.fbx"
+                },
+                {
+                    "k": "281",
+                    "v": "Files\/File281.oprfb"
+                },
+                {
+                    "k": "282",
+                    "v": "Files\/File282.mesh"
+                },
+                {
+                    "k": "283",
+                    "v": "Files\/File283.mesh"
+                },
+                {
+                    "k": "284",
+                    "v": "Files\/File284.mesh"
+                },
+                {
+                    "k": "285",
+                    "v": "Files\/File285.mesh"
+                },
+                {
+                    "k": "286",
+                    "v": "Files\/File286.mesh"
+                },
+                {
+                    "k": "287",
+                    "v": "Files\/File287.mesh"
+                },
+                {
+                    "k": "288",
+                    "v": "Files\/File288"
+                },
+                {
+                    "k": "289",
+                    "v": "Files\/File289.lsmat"
+                },
+                {
+                    "k": "290",
+                    "v": "Files\/File290"
+                },
+                {
+                    "k": "291",
+                    "v": "Files\/File291.lsmat"
+                },
+                {
+                    "k": "292",
+                    "v": "Files\/File292"
+                },
+                {
+                    "k": "293",
+                    "v": "Files\/File293.lsmat"
+                },
+                {
+                    "k": "294",
+                    "v": "Files\/File294.oprfb"
+                },
+                {
+                    "k": "295",
+                    "v": "Files\/File295.obj"
+                },
+                {
+                    "k": "296",
+                    "v": "Files\/File296.oprfb"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "4",
+                        "v": "Models"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Models\/Baseball Cap"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Models\/Baseball Cap\/Meshes"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Models\/Baseball Cap\/Meshes\/cap_occluder.mesh"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Models\/Baseball Cap\/Materials"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "632",
+                        "v": "Textures\/echopark.hdr"
+                    },
+                    {
+                        "k": "26614",
+                        "v": "Models\/Baseball Cap\/Materials\/Graph Occluder.lsmat"
+                    },
+                    {
+                        "k": "26617",
+                        "v": "Loki Helmet.fbx"
+                    },
+                    {
+                        "k": "26618",
+                        "v": "..\/AdditionalFiles\/Loki Helmet\/Materials"
+                    },
+                    {
+                        "k": "26619",
+                        "v": "..\/AdditionalFiles\/Loki Helmet\/Materials\/Material #41.lsmat"
+                    },
+                    {
+                        "k": "26636",
+                        "v": "Material Bolls 2.obj"
+                    },
+                    {
+                        "k": "26637",
+                        "v": "..\/AdditionalFiles\/Material Bolls 2\/Materials"
+                    },
+                    {
+                        "k": "26638",
+                        "v": "..\/AdditionalFiles\/Material Bolls 2\/Materials\/Materiais.lsmat"
+                    },
+                    {
+                        "k": "26639",
+                        "v": "..\/AdditionalFiles\/Material Bolls 2\/Materials\/Materiais 2.lsmat"
+                    },
+                    {
+                        "k": "26640",
+                        "v": "..\/AdditionalFiles\/Material Bolls 2\/Materials\/Materiais 3.lsmat"
+                    },
+                    {
+                        "k": "26641",
+                        "v": "TexturesCom_Metal_FineGold_1K_albedo.tif"
+                    },
+                    {
+                        "k": "26642",
+                        "v": "TexturesCom_Metal_FineGold_1K_normal.tif"
+                    },
+                    {
+                        "k": "26643",
+                        "v": "TexturesCom_Metal_FineGold_1K_metallic.tif"
+                    },
+                    {
+                        "k": "26644",
+                        "v": "TexturesCom_Metal_FineGold_1K_roughness.tif"
+                    },
+                    {
+                        "k": "26659",
+                        "v": "Loki Helmet 2.fbx"
+                    },
+                    {
+                        "k": "26660",
+                        "v": "..\/AdditionalFiles\/Loki Helmet 2\/Materials"
+                    },
+                    {
+                        "k": "26661",
+                        "v": "..\/AdditionalFiles\/Loki Helmet 2\/Materials\/Material #41.lsmat"
+                    },
+                    {
+                        "k": "26662",
+                        "v": "Loki Helmet 3.fbx"
+                    },
+                    {
+                        "k": "26663",
+                        "v": "..\/AdditionalFiles\/Loki Helmet 3\/Materials"
+                    },
+                    {
+                        "k": "26664",
+                        "v": "..\/AdditionalFiles\/Loki Helmet 3\/Materials\/Material #41.lsmat"
+                    },
+                    {
+                        "k": "26665",
+                        "v": "Material Bolls.obj"
+                    },
+                    {
+                        "k": "26666",
+                        "v": "..\/AdditionalFiles\/Material Bolls\/Materials"
+                    },
+                    {
+                        "k": "26667",
+                        "v": "..\/AdditionalFiles\/Material Bolls\/Materials\/Materiais.lsmat"
+                    },
+                    {
+                        "k": "26668",
+                        "v": "..\/AdditionalFiles\/Material Bolls\/Materials\/Materiais 2.lsmat"
+                    },
+                    {
+                        "k": "26669",
+                        "v": "..\/AdditionalFiles\/Material Bolls\/Materials\/Materiais 3.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "272888acc9d613deb42c84cda5b2cc92"
+                    },
+                    {
+                        "k": "3",
+                        "v": "2364044047d413b5f19865b2ca330499"
+                    },
+                    {
+                        "k": "7",
+                        "v": "ff4e13050372615296ee5c819c6e3662"
+                    },
+                    {
+                        "k": "8",
+                        "v": "67c12d4bbccc5d021d5c7fc0b1f8453e"
+                    },
+                    {
+                        "k": "9",
+                        "v": "bb470690012323518bbce559ea03d32f"
+                    },
+                    {
+                        "k": "10",
+                        "v": "4d196be6c739db5b4955f7d7bc598a42"
+                    },
+                    {
+                        "k": "12",
+                        "v": "7d06d049711b6deb4370483cec4511dd"
+                    },
+                    {
+                        "k": "13",
+                        "v": "53dca490e9b5d8a1677451b72a21a0df"
+                    },
+                    {
+                        "k": "14",
+                        "v": "deb5a8e364154e3595d0ff2ad24ccb7c"
+                    },
+                    {
+                        "k": "15",
+                        "v": "ea8acf843cd91d81e504bd5cbfd056c8"
+                    },
+                    {
+                        "k": "16",
+                        "v": "239d8e436cdb6aeb3631bf2b69b9cf2a"
+                    },
+                    {
+                        "k": "17",
+                        "v": "3a7e0a439b4ee2e34be7a6f9519b4ba8"
+                    },
+                    {
+                        "k": "18",
+                        "v": "eb18bec0b3b47e6104473f6704594640"
+                    },
+                    {
+                        "k": "20",
+                        "v": "f1c7b32138f5a9eb05e090b7b9573666"
+                    },
+                    {
+                        "k": "21",
+                        "v": "1d678d261943f664952cc9c7e3905973"
+                    },
+                    {
+                        "k": "22",
+                        "v": "35b2d210b2c8302eea2e3405a2f9c5aa"
+                    },
+                    {
+                        "k": "23",
+                        "v": "211bbb041469cebc491703296cf8aacd"
+                    },
+                    {
+                        "k": "24",
+                        "v": "1b106e138db791bf9bb685af2f672953"
+                    },
+                    {
+                        "k": "26",
+                        "v": "35f21cc0ab077f65aeb696153dbb2f51"
+                    },
+                    {
+                        "k": "27",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "28",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "30",
+                        "v": "ecde3d7f021b3f8e9ff5a06918d61df3"
+                    },
+                    {
+                        "k": "31",
+                        "v": "89c0d1376ce25ac3dbbab08ecc299896"
+                    },
+                    {
+                        "k": "32",
+                        "v": "6d33435472a81a5ccc76f07217701b5e"
+                    },
+                    {
+                        "k": "33",
+                        "v": "566ed18a171c63eed55671e37aba5a69"
+                    },
+                    {
+                        "k": "35",
+                        "v": "39330841f50f2e2a129148124e3db764"
+                    },
+                    {
+                        "k": "36",
+                        "v": "1f05c6fdd83dc7d0d33a113a17376c50"
+                    },
+                    {
+                        "k": "37",
+                        "v": "04182acc9b34c0968a6a85c0f3b843c0"
+                    },
+                    {
+                        "k": "38",
+                        "v": "6050bbc848a357d87c3b1c7405b6d17b"
+                    },
+                    {
+                        "k": "39",
+                        "v": "43b23e41e86a361a825692d02251ec3d"
+                    },
+                    {
+                        "k": "40",
+                        "v": "ac807a5bd61271db86558aac35b3d5ce"
+                    },
+                    {
+                        "k": "41",
+                        "v": "59f012093db73844f760f8159a1e216b"
+                    },
+                    {
+                        "k": "42",
+                        "v": "3d64feb8a5e290c7615b29a4683179ed"
+                    },
+                    {
+                        "k": "632",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "26614",
+                        "v": "def30d484df63ec7efa6d692a0dffaf8"
+                    },
+                    {
+                        "k": "26615",
+                        "v": "4e91640445fbf26a2389e828abeb93ad"
+                    },
+                    {
+                        "k": "26616",
+                        "v": "95591bea72d1790654ee1f2859e27573"
+                    },
+                    {
+                        "k": "26617",
+                        "v": "302403c63eedf8d435ff4fe3cbdd36bd"
+                    },
+                    {
+                        "k": "26619",
+                        "v": "f8a4c72da9eef9b9066ab2e58b303758"
+                    },
+                    {
+                        "k": "26620",
+                        "v": "57d90721595897ee8fd8b4bc4d577946"
+                    },
+                    {
+                        "k": "26622",
+                        "v": "ee22ffa5aec334ad11d3ebd0525b38b7"
+                    },
+                    {
+                        "k": "26623",
+                        "v": "51242c7d94189d06cde31fbb3b963ab6"
+                    },
+                    {
+                        "k": "26624",
+                        "v": "702f2addfa80b573bbe3bcbbd3d40c33"
+                    },
+                    {
+                        "k": "26625",
+                        "v": "307193c2920d3e4bc6c9d87b9dbe3663"
+                    },
+                    {
+                        "k": "26626",
+                        "v": "eba75a31215b33f4fe00f9e84d6f8d68"
+                    },
+                    {
+                        "k": "26627",
+                        "v": "6db076f94f4945f45095d10dba1ef056"
+                    },
+                    {
+                        "k": "26628",
+                        "v": "3f62c75c45118f232a92d42149712e17"
+                    },
+                    {
+                        "k": "26629",
+                        "v": "00b30521faf137c3e325130775d65c24"
+                    },
+                    {
+                        "k": "26630",
+                        "v": "afda73b882f3ccfc2348cfea5a59ecfc"
+                    },
+                    {
+                        "k": "26631",
+                        "v": "7298647d01397463f34150f4b09997bb"
+                    },
+                    {
+                        "k": "26632",
+                        "v": "aec790c933ac0c1ba1301afcd45c036a"
+                    },
+                    {
+                        "k": "26633",
+                        "v": "9ccc031e1769391e969bb6b404dd5374"
+                    },
+                    {
+                        "k": "26634",
+                        "v": "652f27bbb618bd85becd047d30eee222"
+                    },
+                    {
+                        "k": "26635",
+                        "v": "3b40a88e1712029de2868a2663c524fa"
+                    },
+                    {
+                        "k": "26636",
+                        "v": "8660f60cbe3bec778629d7bb9383ddbd"
+                    },
+                    {
+                        "k": "26638",
+                        "v": "90fb374a450745adbe6adbe63bc739dc"
+                    },
+                    {
+                        "k": "26639",
+                        "v": "3c702502a387078db3269f2aad486aed"
+                    },
+                    {
+                        "k": "26640",
+                        "v": "e096bef23dffa4117dd0f96150850362"
+                    },
+                    {
+                        "k": "26641",
+                        "v": "6df703f505466122ca62bfa11f10062a"
+                    },
+                    {
+                        "k": "26642",
+                        "v": "b66b7a752288e71486a64e65891d6da2"
+                    },
+                    {
+                        "k": "26643",
+                        "v": "fcea76e5bc9924aed659b69d1ef49f77"
+                    },
+                    {
+                        "k": "26644",
+                        "v": "3d8291dc0565137dfe690cc39950bdf0"
+                    },
+                    {
+                        "k": "26645",
+                        "v": "57d90721595897ee8fd8b4bc4d577946"
+                    },
+                    {
+                        "k": "26647",
+                        "v": "d8c24cff7c4f4082be77c51fd860d673"
+                    },
+                    {
+                        "k": "26648",
+                        "v": "ec7c651d15b44fad98ff06bae088ab21"
+                    },
+                    {
+                        "k": "26649",
+                        "v": "fb6a64f21799f22cabf6f651f1f7b308"
+                    },
+                    {
+                        "k": "26650",
+                        "v": "66f7128ddf8d35b7825cbb03344f8fbd"
+                    },
+                    {
+                        "k": "26651",
+                        "v": "0b69574cdd94a8fef0208db294cff0ef"
+                    },
+                    {
+                        "k": "26652",
+                        "v": "376c5257ac0bc6ea79fd95a63b768d91"
+                    },
+                    {
+                        "k": "26653",
+                        "v": "289751fb5e8ce7cd8ee58945651f21cb"
+                    },
+                    {
+                        "k": "26654",
+                        "v": "3b0bffa13d3ad2496fb58264bd824f20"
+                    },
+                    {
+                        "k": "26655",
+                        "v": "c9228da9aa351564ec7400d33e31ab16"
+                    },
+                    {
+                        "k": "26656",
+                        "v": "04d997c66b88ad5589b9e2ee2bbb3d50"
+                    },
+                    {
+                        "k": "26657",
+                        "v": "441da1bc696f7fc15d69b88af0e1a2fa"
+                    },
+                    {
+                        "k": "26658",
+                        "v": "d24501217fa8f33624d3af3a9a2ea617"
+                    },
+                    {
+                        "k": "26659",
+                        "v": "302403c63eedf8d435ff4fe3cbdd36bd"
+                    },
+                    {
+                        "k": "26661",
+                        "v": "88bbdaa6a1fa9584c9aa8056b86c0601"
+                    },
+                    {
+                        "k": "26662",
+                        "v": "302403c63eedf8d435ff4fe3cbdd36bd"
+                    },
+                    {
+                        "k": "26664",
+                        "v": "8f53b22d0f1eab8b70b69bce98e68cb1"
+                    },
+                    {
+                        "k": "26665",
+                        "v": "8660f60cbe3bec778629d7bb9383ddbd"
+                    },
+                    {
+                        "k": "26667",
+                        "v": "6190556fdeb9ffed1afe507cd1887e4c"
+                    },
+                    {
+                        "k": "26668",
+                        "v": "b2218c62a38fc781bc766d20a406ee5a"
+                    },
+                    {
+                        "k": "26669",
+                        "v": "3dc4c8451a36f257289b4ccfa9d54151"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-16T02:58:28",
+                        "name": "Public",
+                        "hash": "bc404eb93f5a0b96619f3581ac419b38",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-16T02:27:50",
+                                "name": "Textures",
+                                "hash": "7305afc99178fbb8f0912889f41c0cab",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-16T01:51:18",
+                                        "name": "echopark.hdr",
+                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-16T01:51:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-09-14T21:28:00",
+                                "name": "Material Bolls 2.obj",
+                                "hash": "8660f60cbe3bec778629d7bb9383ddbd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-21T19:09:53",
+                                "name": "TexturesCom_Metal_FineGold_1K_metallic.tif",
+                                "hash": "fcea76e5bc9924aed659b69d1ef49f77",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-21T19:09:52",
+                                "name": "TexturesCom_Metal_FineGold_1K_normal.tif",
+                                "hash": "b66b7a752288e71486a64e65891d6da2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-16T02:34:13",
+                                "name": "Models",
+                                "hash": "eaca8e447374075124b02da56def53b2",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-16T02:34:14",
+                                        "name": "Baseball Cap",
+                                        "hash": "9a0174889d1e62cd4726abebaf4bf732",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-16T02:34:14",
+                                                "name": "Materials",
+                                                "hash": "a2881e063148c39217a8975f385c350e",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-16T02:34:09",
+                                                        "name": "Graph Occluder.lsmat",
+                                                        "hash": "b66a250dea71f862e9f6c57ea5468dfe",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-16T01:51:18",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-16T02:27:51",
+                                                "name": "Meshes",
+                                                "hash": "34dcb4aa511bb2e4d16da991789d8d42",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-16T01:51:18",
+                                                        "name": "cap_occluder.mesh",
+                                                        "hash": "ff4e13050372615296ee5c819c6e3662",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-16T01:51:18",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-16T01:51:18",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-16T01:51:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2017-08-01T21:22:41",
+                                "name": "Loki Helmet 2.fbx",
+                                "hash": "302403c63eedf8d435ff4fe3cbdd36bd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2017-08-01T21:22:41",
+                                "name": "Loki Helmet 3.fbx",
+                                "hash": "302403c63eedf8d435ff4fe3cbdd36bd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2017-08-01T21:22:41",
+                                "name": "Loki Helmet.fbx",
+                                "hash": "302403c63eedf8d435ff4fe3cbdd36bd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-21T19:09:52",
+                                "name": "TexturesCom_Metal_FineGold_1K_roughness.tif",
+                                "hash": "3d8291dc0565137dfe690cc39950bdf0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-21T19:09:48",
+                                "name": "TexturesCom_Metal_FineGold_1K_albedo.tif",
+                                "hash": "6df703f505466122ca62bfa11f10062a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-09-14T21:28:00",
+                                "name": "Material Bolls.obj",
+                                "hash": "8660f60cbe3bec778629d7bb9383ddbd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-16T01:51:18",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Models",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "4",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Baseball Cap",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "5",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "6",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "cap_occluder",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "170",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1519754130605282:3205",
+                                                "fileId": "10",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "7",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "19",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Graph Occluder",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "274",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1623373225135569:6355465",
+                                                "fileId": "100",
+                                                "originalId": "101",
+                                                "publicId": "26614",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "25",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "53",
+                                "originalId": "18446744073709551615",
+                                "publicId": "632",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "272",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588127504141623:277320",
+                                        "fileId": "49",
+                                        "originalId": "50",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "273",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588127504157371:277327",
+                                        "fileId": "51",
+                                        "originalId": "52",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Loki Helmet",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "125",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26617",
+                        "source": "\/Users\/liamsawyer\/Downloads\/source\/Loki Helmet.fbx",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Material #41",
+                                    "v": "1629093203294786:280076"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "casco",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "277",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1629093203286885:280066",
+                                        "fileId": "120",
+                                        "originalId": "121",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3z\/n95r849d1q3_p8vkwlfj9cm80000gn\/T\/Lens Studio-zybRYh\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26618",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Material #41",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "278",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629093203294786:280076",
+                                        "fileId": "122",
+                                        "originalId": "123",
+                                        "publicId": "26619",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Loki Helmet",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "279",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1629093203367098:280168",
+                                "fileId": "124",
+                                "originalId": "126",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Material Bolls 2",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "197",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26636",
+                        "source": "\/Users\/liamsawyer\/Downloads\/Material Bolls\/Material Bolls.obj",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Materiais",
+                                    "v": "1629095068780921:433322"
+                                },
+                                {
+                                    "k": "Materiais 2",
+                                    "v": "1629095068816670:433337"
+                                },
+                                {
+                                    "k": "Materiais 3",
+                                    "v": "1629095068851175:433352"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Esfera_UV",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "308",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1629095068733112:433284",
+                                        "fileId": "184",
+                                        "originalId": "185",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3z\/n95r849d1q3_p8vkwlfj9cm80000gn\/T\/Lens Studio-zybRYh\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Esfera_UV 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "309",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1629095068752645:433298",
+                                        "fileId": "186",
+                                        "originalId": "187",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3z\/n95r849d1q3_p8vkwlfj9cm80000gn\/T\/Lens Studio-zybRYh\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Esfera_UV 3",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "310",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1629095068772105:433312",
+                                        "fileId": "188",
+                                        "originalId": "189",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3z\/n95r849d1q3_p8vkwlfj9cm80000gn\/T\/Lens Studio-zybRYh\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26637",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Materiais",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "311",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629095068780921:433322",
+                                        "fileId": "190",
+                                        "originalId": "191",
+                                        "publicId": "26638",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Materiais 2",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "312",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629095068816670:433337",
+                                        "fileId": "192",
+                                        "originalId": "193",
+                                        "publicId": "26639",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Materiais 3",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "313",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629095068851175:433352",
+                                        "fileId": "194",
+                                        "originalId": "195",
+                                        "publicId": "26640",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Material Bolls",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "314",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1629095068888189:433411",
+                                "fileId": "196",
+                                "originalId": "198",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TexturesCom_Metal_FineGold_1K_albedo",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "315",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629095114741681:434022",
+                        "fileId": "199",
+                        "originalId": "200",
+                        "publicId": "26641",
+                        "source": "\/Users\/liamsawyer\/Downloads\/Material Bolls\/TexturesCom_Metal_FineGold_1K_albedo.tif",
+                        "additional": {
+                            "originHash": "6df703f505466122ca62bfa11f10062a"
+                        }
+                    },
+                    {
+                        "name": "TexturesCom_Metal_FineGold_1K_normal",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "316",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629095131752526:434461",
+                        "fileId": "203",
+                        "originalId": "204",
+                        "publicId": "26642",
+                        "source": "\/Users\/liamsawyer\/Downloads\/Material Bolls\/TexturesCom_Metal_FineGold_1K_normal.tif",
+                        "additional": {
+                            "originHash": "b66b7a752288e71486a64e65891d6da2"
+                        }
+                    },
+                    {
+                        "name": "TexturesCom_Metal_FineGold_1K_metallic",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "317",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629095152204929:434950",
+                        "fileId": "207",
+                        "originalId": "208",
+                        "publicId": "26643",
+                        "source": "\/Users\/liamsawyer\/Downloads\/Material Bolls\/TexturesCom_Metal_FineGold_1K_metallic.tif",
+                        "additional": {
+                            "originHash": "fcea76e5bc9924aed659b69d1ef49f77"
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "TexturesCom_Metal_FineGold_1K_roughness",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "318",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629095766748957:465815",
+                        "fileId": "211",
+                        "originalId": "212",
+                        "publicId": "26644",
+                        "source": "\/Users\/liamsawyer\/Downloads\/Material Bolls\/TexturesCom_Metal_FineGold_1K_roughness.tif",
+                        "additional": {
+                            "originHash": "3d8291dc0565137dfe690cc39950bdf0"
+                        }
+                    },
+                    {
+                        "name": "Loki Helmet 2",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "273",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26659",
+                        "source": "\/Users\/liamsawyer\/Downloads\/source 2\/Loki Helmet.fbx",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Material #41",
+                                    "v": "1629096171011014:497879"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "casco",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "347",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1629096171002806:497869",
+                                        "fileId": "268",
+                                        "originalId": "269",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3z\/n95r849d1q3_p8vkwlfj9cm80000gn\/T\/Lens Studio-sFiaxC\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26660",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Material #41",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "348",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629096171011014:497879",
+                                        "fileId": "270",
+                                        "originalId": "271",
+                                        "publicId": "26661",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Loki Helmet",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "349",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1629096171060225:497910",
+                                "fileId": "272",
+                                "originalId": "274",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Loki Helmet 3",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "280",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26662",
+                        "source": "\/Users\/liamsawyer\/Downloads\/source 2\/Loki Helmet.fbx",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Material #41",
+                                    "v": "1629096222464163:499688"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "casco",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "350",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1629096222455612:499678",
+                                        "fileId": "275",
+                                        "originalId": "276",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3z\/n95r849d1q3_p8vkwlfj9cm80000gn\/T\/Lens Studio-sFiaxC\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26663",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Material #41",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "351",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629096222464163:499688",
+                                        "fileId": "277",
+                                        "originalId": "278",
+                                        "publicId": "26664",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Loki Helmet",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "352",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1629096222509517:499719",
+                                "fileId": "279",
+                                "originalId": "281",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Material Bolls",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "295",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26665",
+                        "source": "\/Users\/liamsawyer\/Downloads\/Material Bolls\/Material Bolls.obj",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Materiais",
+                                    "v": "1629097108167267:633285"
+                                },
+                                {
+                                    "k": "Materiais 2",
+                                    "v": "1629097108203841:633304"
+                                },
+                                {
+                                    "k": "Materiais 3",
+                                    "v": "1629097108241969:633323"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Esfera_UV",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "353",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1629097108110622:633239",
+                                        "fileId": "282",
+                                        "originalId": "283",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3z\/n95r849d1q3_p8vkwlfj9cm80000gn\/T\/Lens Studio-sFiaxC\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Esfera_UV 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "354",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1629097108132348:633257",
+                                        "fileId": "284",
+                                        "originalId": "285",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3z\/n95r849d1q3_p8vkwlfj9cm80000gn\/T\/Lens Studio-sFiaxC\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Esfera_UV 3",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "355",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1629097108153730:633271",
+                                        "fileId": "286",
+                                        "originalId": "287",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3z\/n95r849d1q3_p8vkwlfj9cm80000gn\/T\/Lens Studio-sFiaxC\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26666",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Materiais",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "356",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629097108167267:633285",
+                                        "fileId": "288",
+                                        "originalId": "289",
+                                        "publicId": "26667",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Materiais 2",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "357",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629097108203841:633304",
+                                        "fileId": "290",
+                                        "originalId": "291",
+                                        "publicId": "26668",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Materiais 3",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "358",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629097108241969:633323",
+                                        "fileId": "292",
+                                        "originalId": "293",
+                                        "publicId": "26669",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Material Bolls",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "359",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1629097108286336:633386",
+                                "fileId": "294",
+                                "originalId": "296",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1629095068780921:433322",
+                        "path_list": [
+                            "Material Bolls 2",
+                            "Materials",
+                            "Materiais"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1629093203367098:280168",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629093203324116:280095"
+                        },
+                        {
+                            "k": [
+                                "casco"
+                            ],
+                            "v": "1629093203331337:280109"
+                        },
+                        {
+                            "k": [
+                                "casco",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629093203331635:280111"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629095068888189:433411",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629095068881387:433367"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV"
+                            ],
+                            "v": "1629095068882581:433369"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629095068882848:433371"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.001"
+                            ],
+                            "v": "1629095068883753:433383"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629095068884024:433385"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.002"
+                            ],
+                            "v": "1629095068884801:433397"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629095068885074:433399"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629096171060225:497910",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629096171048008:497894"
+                        },
+                        {
+                            "k": [
+                                "casco"
+                            ],
+                            "v": "1629096171052993:497896"
+                        },
+                        {
+                            "k": [
+                                "casco",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629096171053328:497898"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629096222509517:499719",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629096222497542:499703"
+                        },
+                        {
+                            "k": [
+                                "casco"
+                            ],
+                            "v": "1629096222502628:499705"
+                        },
+                        {
+                            "k": [
+                                "casco",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629096222502990:499707"
+                        }
+                    ]
+                },
+                {
+                    "k": "1629097108286336:633386",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1629097108278087:633342"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV"
+                            ],
+                            "v": "1629097108279644:633344"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629097108279973:633346"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.001"
+                            ],
+                            "v": "1629097108281035:633358"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629097108281343:633360"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.002"
+                            ],
+                            "v": "1629097108282304:633372"
+                        },
+                        {
+                            "k": [
+                                "Esfera_UV.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1629097108282634:633374"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1629095114741681:434022",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1204046",
+                            "compressedSize": "277212",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "201",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3d4b65fd8d0889777beb6447a01bca67",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "202"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629095131752526:434461",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2732117",
+                            "compressedSize": "24479",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "205",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "9cf482d9bb53254196ee8780841b25df",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "206"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629095152204929:434950",
+                    "v": {
+                        "infos": {
+                            "originalSize": "319",
+                            "compressedSize": "935",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "209",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c1831613d6d633d9dba479abdcaea7a6",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "210"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629095766748957:465815",
+                    "v": {
+                        "infos": {
+                            "originalSize": "541550",
+                            "compressedSize": "169201",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "213",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "432fdad752a2bd6f5db0de21d84508c1",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "214"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    }
+}
