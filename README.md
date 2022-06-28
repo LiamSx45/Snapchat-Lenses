@@ -6,6 +6,11 @@ A collection of my snapchat lenses
 
 https://lensstudio.snapchat.com/creator/uyTF1XpYjuTTgKvkZemFcg
 
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Structure
+[![Structure](https://images.repography.com/26932345/LiamSx45/Snapchat-Lenses/structure/a25f0595ef30748a0e72b4c0a64ee57c_table.svg)](https://github.com/LiamSx45/Snapchat-Lenses)
+
+
 ## The List of Lenses Available
 
 #### Light Leaks
@@ -194,9 +199,6 @@ ____
 
 For more information regarding Snapchat Lenses, click [here](https://lensstudio.snapchat.com/) to visit their website.
 
-
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Structure
-[![Structure](https://images.repography.com/26932345/LiamSx45/Snapchat-Lenses/structure/a25f0595ef30748a0e72b4c0a64ee57c_table.svg)](https://github.com/LiamSx45/Snapchat-Lenses)
 
 
   
